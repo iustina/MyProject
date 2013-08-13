@@ -7,4 +7,13 @@
     <artifactId>myProject</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
+	
+	
+	<scm>
+     <connection>scm:git:git@github.com:iustina/MyProject.git</connection>
+     <developerConnection>scm:git:git@github.com:iustina/MyProject.git</developerConnection>
+     <url>https://github.com/iustina/MyProject</url>
+      <tag>HEAD</tag>
+  </scm>
+
 </project>
